@@ -1,0 +1,401 @@
+{
+  "lastReview": "2026-09-11",
+  "reviewLabel": "Evidence checked 11 September; source publication and observation dates retained.",
+  "plants": [
+    {
+      "id": "ramin",
+      "name": "Ramin",
+      "scientific": "Gonystylus bancanus",
+      "status": "CR",
+      "statusLabel": "Critically endangered",
+      "region": "Central Kalimantan",
+      "lat": -2.5,
+      "lon": 113.7,
+      "location": "Bornean peat-swamp habitat. Marker represents the Sebangau region for orientation; it is not a current occurrence survey.",
+      "availability": "Current wild abundance and nursery stock are unknown. Restoration research documents planting of this species.",
+      "parts": "Living seed trees, viable seeds and nursery seedlings are the relevant recovery material. Roots and living stem tissue need field assessment after fire.",
+      "recovery": "Protect surviving seed trees and restore peat hydrology. Specialist nurseries can raise verified local material for suitable peat-swamp sites.",
+      "sources": [
+        {
+          "label": "Kew / IUCN category",
+          "url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A383601-1/general-information"
+        },
+        {
+          "label": "Peat-swamp restoration review (2022)",
+          "url": "https://doi.org/10.1111/1365-2664.14232"
+        }
+      ],
+      "impact": "Regional peat fires justify checking surviving populations. No source reviewed identifies current mortality of this species.",
+      "risk": "Peat habitat concern",
+      "riskBasis": "Screening inference: this plant belongs on the peat-restoration watchlist while regional peat fires are reported. Its presence in a burned footprint has not been verified.",
+      "riskSources": [
+        {
+          "label": "Borneo Nature Foundation · 2026-09-03",
+          "url": "https://borneonaturefoundation.org/firefighting-and-prevention/emergency-fire-update-early-september/"
+        },
+        {
+          "label": "Borneo Orangutan Survival · 2026-09-03",
+          "url": "https://borneoorangutansurvival.org/bosf-update-fire-situation-2026/"
+        }
+      ],
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gonystylus%20bancanus%20tree.jpg",
+      "population": "No current wild population estimate is published in the retained sources. Treat as unquantified and field-check seed trees."
+    },
+    {
+      "id": "balangeran",
+      "name": "Balangeran",
+      "scientific": "Rubroshorea balangeran",
+      "status": "VU",
+      "statusLabel": "Vulnerable · reported 2022",
+      "region": "Central Kalimantan",
+      "lat": -2.3,
+      "lon": 114.1,
+      "location": "Sebangau restoration landscape. Older restoration records use the synonym Shorea balangeran. Marker is a regional reference.",
+      "availability": "Documented in BNF community nursery planting in 2020; today's seed and seedling stocks are unverified.",
+      "parts": "Seeds and nursery seedlings; surviving parent trees retain the next generation's seed source.",
+      "recovery": "Use identified local nursery stock and suitable wetland microsites. Protect planting areas from repeat fire and monitor establishment.",
+      "sources": [
+        {
+          "label": "Kew accepted name",
+          "url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A77298310-1"
+        },
+        {
+          "label": "Kew conservation report (2022)",
+          "url": "https://www.kew.org/sites/default/files/2022-12/Samara%20newsletter%20issue%2038_ACCESSIBLE_final.pdf"
+        },
+        {
+          "label": "BNF nursery record (2020)",
+          "url": "https://borneonaturefoundation.org/uncategorized/thousands-of-seeds-to-reforest-specific-rehabilitation-areas/"
+        }
+      ],
+      "impact": "Regional peat fires justify checking surviving populations. No source reviewed identifies current mortality of this species.",
+      "risk": "Peat habitat concern",
+      "riskBasis": "Screening inference: this plant belongs on the peat-restoration watchlist while regional peat fires are reported. Its presence in a burned footprint has not been verified.",
+      "riskSources": [
+        {
+          "label": "Borneo Nature Foundation · 2026-09-03",
+          "url": "https://borneonaturefoundation.org/firefighting-and-prevention/emergency-fire-update-early-september/"
+        },
+        {
+          "label": "Borneo Orangutan Survival · 2026-09-03",
+          "url": "https://borneoorangutansurvival.org/bosf-update-fire-situation-2026/"
+        }
+      ],
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Shorea%20balangeran.jpg",
+      "population": "No current population count is available. Historical restoration records confirm planting, but current wild and nursery stock are unverified."
+    },
+    {
+      "id": "jelutung",
+      "name": "Jelutung rawa",
+      "scientific": "Dyera polyphylla",
+      "status": "?",
+      "statusLabel": "Current category not verified",
+      "region": "Central Kalimantan",
+      "lat": -2.8,
+      "lon": 114.5,
+      "location": "Peat-swamp restoration watchlist. Marker represents the Kapuas region; local presence must be verified before site-level decisions.",
+      "availability": "Published propagation and peatland planting studies exist. No current Kalimantan supplier inventory has been confirmed.",
+      "parts": "Seeds and seedlings are potential restoration material. The species also produces latex; latex cannot regenerate a tree.",
+      "recovery": "Raise local seedlings and select peatland habitat suited to the species. Protect young plants and monitor survival; research in Jambi is evidence of a method, not proof of Kalimantan stock.",
+      "sources": [
+        {
+          "label": "Propagation and cultivation study",
+          "url": "https://link.springer.com/article/10.1007/s10457-015-9837-3"
+        },
+        {
+          "label": "Peat-swamp restoration review",
+          "url": "https://doi.org/10.1111/1365-2664.14232"
+        }
+      ],
+      "impact": "Regional peat fires justify checking surviving populations. No source reviewed identifies current mortality of this species.",
+      "risk": "Peat habitat concern",
+      "riskBasis": "Screening inference: this plant belongs on the peat-restoration watchlist while regional peat fires are reported. Its presence in a burned footprint has not been verified.",
+      "riskSources": [
+        {
+          "label": "Borneo Nature Foundation · 2026-09-03",
+          "url": "https://borneonaturefoundation.org/firefighting-and-prevention/emergency-fire-update-early-september/"
+        },
+        {
+          "label": "Borneo Orangutan Survival · 2026-09-03",
+          "url": "https://borneoorangutansurvival.org/bosf-update-fire-situation-2026/"
+        }
+      ],
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Dyera%20polyphylla.jpg",
+      "population": "No current Kalimantan population estimate is available. Local occurrence and nursery availability require field verification."
+    },
+    {
+      "id": "gerunggang",
+      "name": "Gerunggang",
+      "scientific": "Cratoxylum arborescens",
+      "status": "?",
+      "statusLabel": "Current category not verified",
+      "region": "Central Kalimantan",
+      "lat": -2.65,
+      "lon": 113.3,
+      "location": "Sebangau regional restoration reference. BNF's 2020 account documents this taxon among locally grown planting species.",
+      "availability": "Historical community nursery record; available quantities and survival after current fires are unknown.",
+      "parts": "Locally sourced seeds and nursery plants. Living stems and roots require inspection before any claim of regeneration.",
+      "recovery": "Include appropriate local material in a diverse restoration mix. Nursery precedent supports feasibility, but site conditions determine outcomes.",
+      "sources": [
+        {
+          "label": "Kew distribution",
+          "url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A433048-1"
+        },
+        {
+          "label": "BNF restoration material record",
+          "url": "https://borneonaturefoundation.org/uncategorized/thousands-of-seeds-to-reforest-specific-rehabilitation-areas/"
+        }
+      ],
+      "impact": "Regional peat fires justify checking surviving populations. No source reviewed identifies current mortality of this species.",
+      "risk": "Peat habitat concern",
+      "riskBasis": "Screening inference: this plant belongs on the peat-restoration watchlist while regional peat fires are reported. Its presence in a burned footprint has not been verified.",
+      "riskSources": [
+        {
+          "label": "Borneo Nature Foundation · 2026-09-03",
+          "url": "https://borneonaturefoundation.org/firefighting-and-prevention/emergency-fire-update-early-september/"
+        },
+        {
+          "label": "Borneo Orangutan Survival · 2026-09-03",
+          "url": "https://borneoorangutansurvival.org/bosf-update-fire-situation-2026/"
+        }
+      ],
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Cratoxylum%20arborescens.jpg",
+      "population": "No current population count is available. Historical nursery records are not a live inventory."
+    },
+    {
+      "id": "ulin",
+      "name": "Ulin · Bornean ironwood",
+      "scientific": "Eusideroxylon zwageri",
+      "status": "?",
+      "statusLabel": "Current category not verified",
+      "region": "East Kalimantan",
+      "lat": -0.7,
+      "lon": 117,
+      "location": "Lowland Bornean forest watchlist. East Kalimantan anchor is approximate; Kew confirms Borneo within the native range.",
+      "availability": "Current local population, seed collection and nursery availability are unverified.",
+      "parts": "Viable seeds, seedlings and surviving parent trees. Durable dead timber does not imply that a fire-damaged tree is alive.",
+      "recovery": "Prioritize surviving adults and habitat protection. Seedling research finds slow growth, so recovery requires long-term monitoring rather than a 15-day planting outcome.",
+      "sources": [
+        {
+          "label": "Kew native range",
+          "url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A464565-1"
+        },
+        {
+          "label": "Seedling growth study",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/15179575/"
+        }
+      ],
+      "impact": "No current fire report reviewed establishes damage to this species or its cultivated stock.",
+      "risk": "Exposure unassessed",
+      "riskBasis": "Current regional fire reporting has not been matched to a verified population of this species. A fire-risk category cannot be assigned to these plants yet.",
+      "riskSources": [],
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Eusideroxylon%20zwageri.jpg",
+      "population": "No current East Kalimantan population estimate is available. Surviving adults and seed sources are unverified."
+    },
+    {
+      "id": "kasturi",
+      "name": "Kasturi · Kalimantan mango",
+      "scientific": "Mangifera casturi",
+      "status": "EW",
+      "statusLabel": "Extinct in the wild · historical status",
+      "region": "South Kalimantan",
+      "lat": -3.3,
+      "lon": 114.8,
+      "location": "South Kalimantan cultivation context. Marker represents the Banjar / Banjarbaru region, not an identified tree or nursery.",
+      "availability": "Persists in cultivation according to conservation literature. Today's local stock and fire impacts are unverified.",
+      "parts": "Living cultivated trees, seeds and nursery plants. Identity and genetic diversity should be checked before propagation or reintroduction.",
+      "recovery": "Safeguard cultivated material and work with botanical specialists on propagation. Reintroduction needs suitable protected habitat; the EW listing is not evidence of extinction caused by the current fires.",
+      "sources": [
+        {
+          "label": "Kasturi conservation study",
+          "url": "https://ojs.unud.ac.id/index.php/bio/article/download/101686/55584/"
+        },
+        {
+          "label": "Extinct-in-the-wild conservation research",
+          "url": "https://researchonline.ljmu.ac.uk/id/eprint/19540/1/Smith%20et%20al%202022%20Extinct%20in%20the%20Wild%20combined%20pdf.pdf"
+        }
+      ],
+      "impact": "No current fire report reviewed establishes damage to this species or its cultivated stock.",
+      "risk": "Exposure unassessed",
+      "riskBasis": "Current regional fire reporting has not been matched to a verified population of this species. A fire-risk category cannot be assigned to these plants yet.",
+      "riskSources": [],
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mangifera%20casturi.jpg",
+      "population": "Wild population: 0 under the historical extinct-in-the-wild category; cultivated trees persist, but current local counts are unverified."
+    }
+  ],
+  "reports": [
+    {
+      "date": "2026-09-09",
+      "summary": "Review of sources available on 9 September: the Forestry Ministry reports declining hotspots in several priority provinces using 8 September observations. Earlier field reports describe a contained sedge fire at Sebangau’s northern boundary and approximately 49.5 hectares affected in Mawas. These are habitat-level signals, not proof of death in any named plant population.",
+      "mortality": "No new species-level plant deaths, extirpations or extinctions verified in the reviewed sources.",
+      "availability": "Historical nursery leads remain useful, but today’s seed, seedling and surviving-tree quantities are unknown.",
+      "coverage": "All five Kalimantan provinces are shown. North Kalimantan has an explicit evidence gap. Map markers are approximate orientation anchors, not verified tree occurrences or burned-area boundaries.",
+      "sources": [
+        {
+          "label": "Ministry of Forestry · published 2026-09-09",
+          "url": "https://www.kehutanan.go.id/pers/hotspot-turun-di-empat-provinsi-prioritas-pengendalian-dan-omc-terus-diperkuat"
+        },
+        {
+          "label": "Borneo Nature Foundation · published 2026-09-03",
+          "url": "https://borneonaturefoundation.org/firefighting-and-prevention/emergency-fire-update-early-september/"
+        },
+        {
+          "label": "Borneo Orangutan Survival · published 2026-09-03",
+          "url": "https://borneoorangutansurvival.org/bosf-update-fire-situation-2026/"
+        },
+        {
+          "label": "ANTARA · published 2026-09-05",
+          "url": "https://en.antaranews.com/amp/news/430056/s-kalimantan-develops-special-liquid-to-fight-peatland-fires"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-10",
+      "summary": "New reports document rotating air operations in East Kalimantan and a cumulative fire record for Penajam Paser Utara through 8 September. These strengthen regional habitat concern without proving overlap with named plant populations.",
+      "mortality": "No species-level plant deaths, extirpations or new extinctions verified in the sources reviewed today.",
+      "availability": "Current seed, seedling and surviving-tree quantities remain unverified; historical nursery leads are not live stock listings.",
+      "coverage": "Five provinces remain visible. North Kalimantan has an evidence gap. Map points are approximate regional references, not individual plants or current fire perimeters.",
+      "sources": [
+        {
+          "label": "ANTARA · published 2026-09-10",
+          "url": "https://kaltim.antaranews.com/berita/266645/kaltim-dan-bnpb-terapkan-operasi-udara-estafet-tekan-karhutla"
+        },
+        {
+          "label": "ANTARA / BPBD PPU · published 2026-09-10",
+          "url": "https://sumbar.antaranews.com/berita/777964/tim-gabungan-penajam-tangani-113-karhutla-hingga-8-september"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-11",
+      "summary": "South Kalimantan now has a newly published cumulative provincial fire assessment through 10 September. Regional habitat concern continues; no new named-plant damage was verified.",
+      "mortality": "Named plant mortality, local extirpation and new extinction remain unverified.",
+      "availability": "No live nursery stock or surviving-tree inventory was verified today.",
+      "coverage": "Approximate regional map references remain unchanged. Province-level fire totals cannot establish overlap with individual plant populations. North Kalimantan remains an evidence gap in this dataset.",
+      "sources": [
+        {
+          "label": "ANTARA / BPBD Kalsel · published 2026-09-11",
+          "url": "https://sumbar.antaranews.com/berita/778127/bpbd-karhutla-di-kalimantan-selatan-capai-20206-hektare"
+        }
+      ]
+    }
+  ],
+  "reviewedAt": "2026-09-11T05:38:58.455Z",
+  "monitoring": {
+    "status": "active",
+    "label": "Daily evidence checks scheduled through 23 September",
+    "start": "2026-09-09",
+    "end": "2026-09-23",
+    "time": "17:00",
+    "zone": "Asia/Jakarta"
+  },
+  "news": [
+    {
+      "id": "south-0911",
+      "date": "2026-09-11",
+      "region": "South Kalimantan",
+      "title": "South Kalimantan cumulative fire footprint reported",
+      "summary": "ANTARA reports BPBD totals of 20,206.06 hectares affected and 2,963 incidents from 1 January through 10 September. This provincial cumulative figure does not establish mortality of kasturi or other named plants.",
+      "publisher": "ANTARA / BPBD Kalsel",
+      "evidence": "Cumulative regional assessment",
+      "url": "https://sumbar.antaranews.com/berita/778127/bpbd-karhutla-di-kalimantan-selatan-capai-20206-hektare"
+    },
+    {
+      "id": "east-air-0910",
+      "date": "2026-09-10",
+      "region": "East Kalimantan",
+      "title": "Air operations rotate across fire areas",
+      "summary": "ANTARA reports water-bombing operations in Kutai Kartanegara on 9 September after Samarinda on 8 September. Regional response activity does not establish losses of ulin or any other named plant.",
+      "url": "https://kaltim.antaranews.com/berita/266645/kaltim-dan-bnpb-terapkan-operasi-udara-estafet-tekan-karhutla",
+      "publisher": "ANTARA",
+      "evidence": "Regional response report"
+    },
+    {
+      "id": "penajam-0910",
+      "date": "2026-09-10",
+      "region": "East Kalimantan",
+      "title": "Penajam Paser Utara: cumulative fire impacts",
+      "summary": "BPBD figures reported by ANTARA record 113 incidents and 199.79 hectares affected from January through 8 September. This cumulative district total is not a daily burned-area estimate or a plant mortality count.",
+      "url": "https://sumbar.antaranews.com/berita/777964/tim-gabungan-penajam-tangani-113-karhutla-hingga-8-september",
+      "publisher": "ANTARA / BPBD PPU",
+      "evidence": "Cumulative regional assessment"
+    },
+    {
+      "id": "hotspots",
+      "date": "2026-09-09",
+      "region": "West Kalimantan",
+      "title": "Hotspots declined; suppression continues",
+      "summary": "The Forestry Ministry reports falling high-confidence hotspots in four priority provinces using 8 September observations. West Kalimantan declined from 31 to 12. These are satellite indicators, not counts of burned plants.",
+      "url": "https://www.kehutanan.go.id/pers/hotspot-turun-di-empat-provinsi-prioritas-pengendalian-dan-omc-terus-diperkuat",
+      "publisher": "Ministry of Forestry",
+      "evidence": "Regional satellite signal"
+    },
+    {
+      "id": "sebangau",
+      "date": "2026-09-03",
+      "region": "Central Kalimantan",
+      "title": "Fire reached Sebangau’s northern boundary",
+      "summary": "BNF reports a fire contained in sedge vegetation, with no primary forest affected in that incident. This does not establish park-wide safety or identify losses of particular trees.",
+      "url": "https://borneonaturefoundation.org/firefighting-and-prevention/emergency-fire-update-early-september/",
+      "publisher": "Borneo Nature Foundation",
+      "evidence": "Field report"
+    },
+    {
+      "id": "mawas",
+      "date": "2026-09-03",
+      "region": "Central Kalimantan",
+      "title": "Mawas conservation area affected",
+      "summary": "BOSF reports approximately 49.5 hectares affected by fire in Mawas. The report describes vegetation and habitat impacts without identifying plant species mortality.",
+      "url": "https://borneoorangutansurvival.org/bosf-update-fire-situation-2026/",
+      "publisher": "Borneo Orangutan Survival",
+      "evidence": "Field report"
+    },
+    {
+      "id": "south",
+      "date": "2026-09-05",
+      "region": "South Kalimantan",
+      "title": "Peat-fire response in Banjarbaru",
+      "summary": "ANTARA reports efforts to cool and suppress underground peat fires near Pengayuan. The report does not establish damage to cultivated kasturi or other named plants.",
+      "url": "https://en.antaranews.com/amp/news/430056/s-kalimantan-develops-special-liquid-to-fight-peatland-fires",
+      "publisher": "ANTARA",
+      "evidence": "Regional response report"
+    }
+  ],
+  "regions": [
+    {
+      "name": "West Kalimantan",
+      "status": "Fire monitoring continues",
+      "detail": "Latest ministry report shows fewer hotspots. Species-level plant records are still needed.",
+      "date": "2026-09-09",
+      "url": "https://www.kehutanan.go.id/pers/hotspot-turun-di-empat-provinsi-prioritas-pengendalian-dan-omc-terus-diperkuat"
+    },
+    {
+      "name": "Central Kalimantan",
+      "status": "Peat habitat concern",
+      "detail": "Dated field reports document fire at Sebangau’s boundary and in Mawas. Named plant losses remain unverified.",
+      "date": "2026-09-03",
+      "url": "https://borneoorangutansurvival.org/bosf-update-fire-situation-2026/"
+    },
+    {
+      "name": "South Kalimantan",
+      "status": "Cumulative fire impacts reported",
+      "detail": "BPBD reports provincial impacts through 10 September. Damage to kasturi populations has not been established.",
+      "date": "2026-09-11",
+      "url": "https://sumbar.antaranews.com/berita/778127/bpbd-karhutla-di-kalimantan-selatan-capai-20206-hektare"
+    },
+    {
+      "name": "East Kalimantan",
+      "status": "Active fire response reported",
+      "detail": "New reporting describes air operations and cumulative impacts in Penajam Paser Utara. Exposure of individual ulin populations remains unverified.",
+      "date": "2026-09-10",
+      "url": "https://kaltim.antaranews.com/berita/266645/kaltim-dan-bnpb-terapkan-operasi-udara-estafet-tekan-karhutla"
+    },
+    {
+      "name": "North Kalimantan",
+      "status": "Evidence gap",
+      "detail": "No current regional source retained in this review. Missing reports do not mean low risk.",
+      "date": "2026-09-09",
+      "url": ""
+    }
+  ]
+}
