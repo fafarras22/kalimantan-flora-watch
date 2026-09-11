@@ -37,7 +37,9 @@
           "label": "Borneo Orangutan Survival · 2026-09-03",
           "url": "https://borneoorangutansurvival.org/bosf-update-fire-situation-2026/"
         }
-      ]
+      ],
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gonystylus%20bancanus%20tree.jpg",
+      "population": "No current wild population estimate is published in the retained sources. Treat as unquantified and field-check seed trees."
     },
     {
       "id": "balangeran",
@@ -78,7 +80,9 @@
           "label": "Borneo Orangutan Survival · 2026-09-03",
           "url": "https://borneoorangutansurvival.org/bosf-update-fire-situation-2026/"
         }
-      ]
+      ],
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Shorea%20balangeran.jpg",
+      "population": "No current population count is available. Historical restoration records confirm planting, but current wild and nursery stock are unverified."
     },
     {
       "id": "jelutung",
@@ -115,7 +119,9 @@
           "label": "Borneo Orangutan Survival · 2026-09-03",
           "url": "https://borneoorangutansurvival.org/bosf-update-fire-situation-2026/"
         }
-      ]
+      ],
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Dyera%20polyphylla.jpg",
+      "population": "No current Kalimantan population estimate is available. Local occurrence and nursery availability require field verification."
     },
     {
       "id": "gerunggang",
@@ -152,7 +158,9 @@
           "label": "Borneo Orangutan Survival · 2026-09-03",
           "url": "https://borneoorangutansurvival.org/bosf-update-fire-situation-2026/"
         }
-      ]
+      ],
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Cratoxylum%20arborescens.jpg",
+      "population": "No current population count is available. Historical nursery records are not a live inventory."
     },
     {
       "id": "ulin",
@@ -180,7 +188,9 @@
       "impact": "No current fire report reviewed establishes damage to this species or its cultivated stock.",
       "risk": "Exposure unassessed",
       "riskBasis": "Current regional fire reporting has not been matched to a verified population of this species. A fire-risk category cannot be assigned to these plants yet.",
-      "riskSources": []
+      "riskSources": [],
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Eusideroxylon%20zwageri.jpg",
+      "population": "No current East Kalimantan population estimate is available. Surviving adults and seed sources are unverified."
     },
     {
       "id": "kasturi",
@@ -208,7 +218,9 @@
       "impact": "No current fire report reviewed establishes damage to this species or its cultivated stock.",
       "risk": "Exposure unassessed",
       "riskBasis": "Current regional fire reporting has not been matched to a verified population of this species. A fire-risk category cannot be assigned to these plants yet.",
-      "riskSources": []
+      "riskSources": [],
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mangifera%20casturi.jpg",
+      "population": "Wild population: 0 under the historical extinct-in-the-wild category; cultivated trees persist, but current local counts are unverified."
     }
   ],
   "reports": [
